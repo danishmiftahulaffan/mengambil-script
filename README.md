@@ -1,0 +1,1 @@
+# mengambil-script
